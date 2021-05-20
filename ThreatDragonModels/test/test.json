@@ -4,7 +4,11 @@
     "owner": "alef75"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "alef75"
+      }
+    ],
     "diagrams": [
       {
         "title": "test",
